@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiFlight_Example.props" />
+</Project>

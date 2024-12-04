@@ -1,0 +1,6 @@
+@WebApiFlight_Example_HostAddress = http://localhost:5043
+
+GET {{WebApiFlight_Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
